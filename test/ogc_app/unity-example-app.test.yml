@@ -4,6 +4,7 @@
         downloading_roles: '', 
         downloading_keys: 'data', #key under "assets" in the stage_in_results.json
         download_type: 'HTTP',
+        download_dir: '/downloaded_files/',
         edl_username: None,
         edl_password_type: '',
         edl_password: '',
